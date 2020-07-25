@@ -1,0 +1,7 @@
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.exe.config
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.exe
+C:\Users\kim45\Desktop\C#\Cs_Yacht\bin\Debug\Cs_Yacht.pdb
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.csprojAssemblyReference.cache
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.csproj.CoreCompileInputs.cache
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.exe
+C:\Users\kim45\Desktop\C#\Cs_Yacht\obj\Debug\Cs_Yacht.pdb
